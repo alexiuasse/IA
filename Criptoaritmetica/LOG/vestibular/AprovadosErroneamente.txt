@@ -1,0 +1,36 @@
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 1 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 2 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 3 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 4 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 5 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 5 CROMOSSOMUS : ['8', '9', '0', '4', '2', '3', '5', '7']
+SEND : ['3', '8', '2', '9'] MORE : ['0', '4', '5', '8'] MONEY : ['0', '4', '2', '8', '7']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 6 CROMOSSOMUS : ['8', '1', '0', '4', '2', '3', '6', '9']
+SEND : ['3', '8', '2', '1'] MORE : ['0', '4', '6', '8'] MONEY : ['0', '4', '2', '8', '9']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 6 CROMOSSOMUS : ['8', '9', '0', '4', '2', '3', '5', '7']
+SEND : ['3', '8', '2', '9'] MORE : ['0', '4', '5', '8'] MONEY : ['0', '4', '2', '8', '7']
+
+POPULAÇÃO : 100 GERAÇÃO : 100 MUTAÇÃO : 0.02 CROSSOVER : 0.6 MÁSCARA : ['e', 'd', 'm', 'o', 'n', 's', 'r', 'y'] 
+GENERATION : 7 CROMOSSOMUS : ['8', '9', '0', '4', '2', '3', '5', '7']
+SEND : ['3', '8', '2', '9'] MORE : ['0', '4', '5', '8'] MONEY : ['0', '4', '2', '8', '7']
